@@ -6,7 +6,7 @@ This repository contains a small **research demo** that combines a **Large Langu
 - The chatbot first generates a **patient-friendly reply** using a Hugging Face LLM pipeline.  
 - Extracted symptoms are mapped into a **structured knowledge graph**.  
 - The system computes **scores for likely medical specialties**.
--  Final goal: Reducing the uncertainty of purely generative LLM output.  
+-  Final goal: Reducing the uncertainty of generative LLM output.  
 
  
 ## Example Workflow
