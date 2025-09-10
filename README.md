@@ -4,9 +4,9 @@ This repository contains a small **research demo** that combines a **Large Langu
 
 ## Overview
 - The chatbot first generates a **patient-friendly reply** using a Hugging Face LLM pipeline.  
-- Extracted symptoms are mapped into a **structured knowledge graph**, where edges encode typical symptom–specialty associations.  
-- The system computes **scores for likely medical specialties**, reducing the uncertainty of purely generative LLM output.  
-- The result is a hybrid approach that is more **explainable and reproducible**, suitable as a prototype for decision support under uncertainty.
+- Extracted symptoms are mapped into a **structured knowledge graph**.  
+- The system computes **scores for likely medical specialties**.
+-  Final goal: Reducing the uncertainty of purely generative LLM output.  
 
 ## Features
 - 🤖 **LLM Integration**: Hugging Face pipeline for text generation  
