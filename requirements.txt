@@ -1,0 +1,7 @@
+# Tested on Google Colab
+transformers==4.41.2
+torch
+pandas
+networkx>=3.0
+matplotlib
+mlflow
