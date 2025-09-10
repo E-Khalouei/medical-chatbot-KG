@@ -2,6 +2,6 @@
 transformers==4.41.2
 torch
 pandas
-networkx>=3.0
+networkx==3.5
 matplotlib
 mlflow
