@@ -1,7 +1,5 @@
 # Medical Chatbot + Knowledge Graph (LLM × KG)
 
-# Medical Chatbot + Knowledge Graph (LLM × KG)
-
 This repository contains a small **research demo** that combines a **Large Language Model (LLM)** with a **knowledge graph (KG)** for medical decision support.
 
 ## Overview
