@@ -8,13 +8,7 @@ This repository contains a small **research demo** that combines a **Large Langu
 - The system computes **scores for likely medical specialties**.
 -  Final goal: Reducing the uncertainty of purely generative LLM output.  
 
-## Features
-- 🤖 **LLM Integration**: Hugging Face pipeline for text generation  
-- 🩺 **Symptom Extraction**: Regex-based matching with synonym support  
-- 📊 **Knowledge Graph**: Built with NetworkX (optional PyVis for interactive visualization)  
-- 🧮 **Specialty Scoring**: Weighted mapping from symptoms → medical specialties  
-- 📦 **Experiment Tracking**: MLflow integration for reproducibility  
-
+ 
 ## Example Workflow
 1. User enters a message (e.g., *"I have headache and stomach pain"*).  
 2. LLM generates an initial, patient-friendly response.  
